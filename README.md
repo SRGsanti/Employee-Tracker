@@ -1,6 +1,9 @@
 # Employee-Tracker
 I will be making an application that tracks and keeps employee information. 
 
+#link to start 
+ https://srgsanti.github.io/Employee-Tracker/
+
 # User Story
 
 AS A business owner
